@@ -1,11 +1,11 @@
 
-Hibernate ORM Assignment
+**Hibernate ORM Assignment**
 This Java project shows how to manage one-to-one, one-to-many, and many-to-many relationships between 
 the entities Author and Book using Hibernate ORM (Object-Relational Mapping). 
 In order to save, update, remove, and exist authors and books from a MySQL database, 
 the project  use maven.
 
-Part 1: CRUD Operations on a Single Entity (Book)
+**Part 1: CRUD Operations on a Single Entity (Book)**
 Description In this part of the assignment, you will implement CRUD (Create, Read, Update, Delete) operations for 
 the Book entity. The application allows you to create new books, retrieve books by their ID, update existing book 
 attributes, and delete books from the database.
@@ -26,7 +26,7 @@ attributes, and delete books from the database.
 
 🖋 The application will perform CRUD operations on the Book entity and display the results in the console.
 
-Part 2: Relationships between Entities (Book and Author)
+## **Part 2: Relationships between Entities (Book and Author)**
 
 Description In this part of the assignment, you will work with two entities: Book and Author. 
 You will implement one-to-one, one-to-many, and many-to-many relationships between these entities 
